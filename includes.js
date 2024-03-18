@@ -2,5 +2,5 @@
 
 const array = [1, 2, 3, 4, 5];
 
-const inclui3 = array.includes(3);
-console.log(inclui3); // Saída: true
+const inclui7 = array.includes(3);
+console.log(inclui7); // Saída: true

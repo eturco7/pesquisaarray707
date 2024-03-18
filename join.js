@@ -2,6 +2,6 @@
 
 const array = ['a', 'b', 'c'];
 
-const stringConcatenada = array.join('-');
-console.log(stringConcatenada); // Saída: 'a-b-c'
+const stringConcate = array.join('-');
+console.log(stringConcate); // Saída: 'a-b-c'
 

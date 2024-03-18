@@ -2,5 +2,5 @@
 
 const foarray = [1, 2, 3];
 
-const dobro = foarray.map(elemento => elemento * 2);
-console.log(dobro); // Saída: [2, 4, 6]
+const dobrodobro = foarray.map(elemento => elemento * 2);
+console.log(dobrodobro); // Saída: [2, 4, 6]
