@@ -1,4 +1,4 @@
-//Includes determina se um array inclui um determinado elemento, retornando true ou false conforme apropriado.
+//O método de array includes determina se um array inclui um determinado elemento, retornando true ou false conforme apropriado.
 
 const array = [1, 2, 3, 4, 5];
 

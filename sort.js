@@ -1,4 +1,4 @@
-//Sort ordena os elementos de um array in-place e retorna o array ordenado. O padrão é a ordenação de strings Unicode.
+//O método de array sort ordena os elementos de um array in-place e retorna o array ordenado. O padrão é a ordenação de strings Unicode.
 
 const typearray = [3, 1, 4, 1, 5, 9, 2, 6, 5];
 

@@ -1,4 +1,4 @@
-//Join cria e retorna uma nova string concatenando todos os elementos em um array (ou um array-like object) separados por vírgula ou um separador especificado.
+//O método de aray join cria e retorna uma nova string concatenando todos os elementos em um array (ou um array-like object) separados por vírgula ou um separador especificado.
 
 const array = ['a', 'b', 'c'];
 

@@ -1,4 +1,4 @@
-//Map cria um novo array com os resultados da chamada de uma função para cada elemento do array.
+//O método de array map cria um novo array com os resultados da chamada de uma função para cada elemento do array.
 
 const foarray = [1, 2, 3];
 

@@ -1,4 +1,4 @@
-//Reverse inverte a ordem dos elementos de um array in-place e retorna o array invertido.
+//O método de array reverse inverte a ordem dos elementos de um array in-place e retorna o array invertido.
 
 const thisarray = [1, 2, 3, 4, 5];
 
